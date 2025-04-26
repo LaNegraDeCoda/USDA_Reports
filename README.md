@@ -42,6 +42,8 @@ Students and educators needing real-world government API data
     }
   ]
 }
+
+
 ⚙️ Setup Instructions
 1. Clone this repo
 
